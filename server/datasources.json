@@ -2,5 +2,16 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "MongoDB": {
+    "host": "confusion.lnvgz.mongodb.net",
+    "port": 0,
+    "url": "MongoDbConstring",
+    "database": "conFusion",
+    "password": "aawl4uwYaUcm3uPE",
+    "name": "MongoDB",
+    "user": "conFusion",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
   }
 }
